@@ -1,0 +1,125 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pickerington 15-Day Weather Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:2025-08-13-pickerington-weather@laran-sims
+DTSTAMP:20250813T000000Z
+DTSTART;VALUE=DATE:20250813
+DTEND;VALUE=DATE:20250814
+SUMMARY:Pickerington Weather – High 87°F / Low 65°F
+DESCRIPTION:Humid with clouds and sun\; possible afternoon thunderstorms.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-14-pickerington-weather@laran-sims
+DTSTAMP:20250814T000000Z
+DTSTART;VALUE=DATE:20250814
+DTEND;VALUE=DATE:20250815
+SUMMARY:Pickerington Weather – High 85°F / Low 62°F
+DESCRIPTION:Partly sunny and humid.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-15-pickerington-weather@laran-sims
+DTSTAMP:20250815T000000Z
+DTSTART;VALUE=DATE:20250815
+DTEND;VALUE=DATE:20250816
+SUMMARY:Pickerington Weather – High 87°F / Low 62°F
+DESCRIPTION:Partly sunny and humid.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-16-pickerington-weather@laran-sims
+DTSTAMP:20250816T000000Z
+DTSTART;VALUE=DATE:20250816
+DTEND;VALUE=DATE:20250817
+SUMMARY:Pickerington Weather – High 90°F / Low 65°F
+DESCRIPTION:Mostly sunny and hot.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-17-pickerington-weather@laran-sims
+DTSTAMP:20250817T000000Z
+DTSTART;VALUE=DATE:20250817
+DTEND;VALUE=DATE:20250818
+SUMMARY:Pickerington Weather – High 88°F / Low 69°F
+DESCRIPTION:Humid\; afternoon thunderstorms likely.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-18-pickerington-weather@laran-sims
+DTSTAMP:20250818T000000Z
+DTSTART;VALUE=DATE:20250818
+DTEND;VALUE=DATE:20250819
+SUMMARY:Pickerington Weather – High 90°F / Low 68°F
+DESCRIPTION:Partly sunny\, hot and humid.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-19-pickerington-weather@laran-sims
+DTSTAMP:20250819T000000Z
+DTSTART;VALUE=DATE:20250819
+DTEND;VALUE=DATE:20250820
+SUMMARY:Pickerington Weather – High 88°F / Low 65°F
+DESCRIPTION:Variable clouds with thunderstorms late.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-20-pickerington-weather@laran-sims
+DTSTAMP:20250820T000000Z
+DTSTART;VALUE=DATE:20250820
+DTEND;VALUE=DATE:20250821
+SUMMARY:Pickerington Weather – High 84°F / Low 57°F
+DESCRIPTION:Mostly cloudy and humid.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-21-pickerington-weather@laran-sims
+DTSTAMP:20250821T000000Z
+DTSTART;VALUE=DATE:20250821
+DTEND;VALUE=DATE:20250822
+SUMMARY:Pickerington Weather – High 80°F / Low 58°F
+DESCRIPTION:Sun through high clouds\; less humid.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-22-pickerington-weather@laran-sims
+DTSTAMP:20250822T000000Z
+DTSTART;VALUE=DATE:20250822
+DTEND;VALUE=DATE:20250823
+SUMMARY:Pickerington Weather – High 82°F / Low 61°F
+DESCRIPTION:Low humidity with sun through high clouds.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-23-pickerington-weather@laran-sims
+DTSTAMP:20250823T000000Z
+DTSTART;VALUE=DATE:20250823
+DTEND;VALUE=DATE:20250824
+SUMMARY:Pickerington Weather – High 80°F / Low 60°F
+DESCRIPTION:Mostly sunny and humid.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-24-pickerington-weather@laran-sims
+DTSTAMP:20250824T000000Z
+DTSTART;VALUE=DATE:20250824
+DTEND;VALUE=DATE:20250825
+SUMMARY:Pickerington Weather – High 83°F / Low 61°F
+DESCRIPTION:Mostly sunny and humid.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-25-pickerington-weather@laran-sims
+DTSTAMP:20250825T000000Z
+DTSTART;VALUE=DATE:20250825
+DTEND;VALUE=DATE:20250826
+SUMMARY:Pickerington Weather – High 82°F / Low 58°F
+DESCRIPTION:Morning rain\, then thunderstorms in afternoon.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-26-pickerington-weather@laran-sims
+DTSTAMP:20250826T000000Z
+DTSTART;VALUE=DATE:20250826
+DTEND;VALUE=DATE:20250827
+SUMMARY:Pickerington Weather – High 81°F / Low 59°F
+DESCRIPTION:Mostly sunny and less humid.
+END:VEVENT
+BEGIN:VEVENT
+UID:2025-08-27-pickerington-weather@laran-sims
+DTSTAMP:20250827T000000Z
+DTSTART;VALUE=DATE:20250827
+DTEND;VALUE=DATE:20250828
+SUMMARY:Pickerington Weather – High 84°F / Low 64°F
+DESCRIPTION:Mostly cloudy and humid\; couple of afternoon showers.
+END:VEVENT
+END:VCALENDAR
